@@ -650,7 +650,6 @@ kli
 klo
 klu
 koa
-itu
 mau
 kob
 kod
@@ -783,7 +782,6 @@ map
 mar
 mas
 mat
-mau
 maz
 mbe
 me-
@@ -1929,7 +1927,6 @@ ceki
 cela
 ceng
 ceri
-ciu
 ci-ak
 cili
 cina
@@ -3489,14 +3486,8 @@ zona
 -itas
 ab-di
 ab-du
--isme
--itas
 -wati
 -wiah
--wati
--wiah
-ab-di
-ab-du
 abadi
 abang
 abing
@@ -3676,9 +3667,6 @@ ba-de
 ba-di
 ba-gi
 ba-hu
-ba-id
-ba-ik
-ba-in
 ba-is
 ba-it
 ba-ja
@@ -3703,10 +3691,7 @@ ba-so
 ba-ta
 ba-ti
 ba-tu
-ba-ud
-ba-uk
 ba-un
-ba-ur
 ba-ut
 ba-wa
 ba-ya
@@ -3847,7 +3832,6 @@ betul
 bi-ah
 bi-ak
 bi-ar
-bi-as
 bi-at
 bi-au
 bi-bi
@@ -3867,8 +3851,6 @@ bi-ru
 bi-sa
 bi-su
 bi-ti
-bi-us
-bi-ut
 biala
 biang
 biasa
@@ -3953,8 +3935,6 @@ bu-ai
 bu-ak
 bu-al
 bu-ar
-bu-as
-bu-at
 bu-bo
 bu-bu
 bu-cu
@@ -3976,7 +3956,6 @@ bu-sa
 bu-si
 bu-ta
 bu-ya
-bu-ah
 buang
 buaya
 bubuk
@@ -4021,12 +4000,10 @@ ca-ci
 ca-em
 ca-gu
 ca-hi
-ca-ir
 ca-is
 ca-ki
 ca-ko
 ca-lo
-ca-os
 ca-pa
 ca-pe
 ca-ra
@@ -4109,7 +4086,6 @@ cerna
 cetak
 cetok
 cheng
-ci-ak
 ci-ap
 ci-ar
 ci-au
@@ -4195,7 +4171,6 @@ da-ge
 da-gi
 da-gu
 da-hi
-da-if
 da-im
 da-ka
 da-ki
@@ -4213,8 +4188,6 @@ da-ta
 da-ti
 da-tu
 da-uk
-da-un
-da-ur
 da-ya
 da-yu
 dabus
@@ -4298,13 +4271,10 @@ dewan
 dewar
 di-ad
 di-ah
-di-am
 di-an
 di-ar
 di-as
-di-at
 di-es
-di-et
 di-la
 di-na
 di-ni
@@ -4347,7 +4317,6 @@ du-ga
 du-ha
 du-he
 du-hu
-du-it
 du-ka
 du-ku
 du-la
@@ -4422,7 +4391,6 @@ etno-
 eyang
 fa-al
 fa-fa
-fa-il
 fa-na
 fa-ni
 fa-se
@@ -4439,7 +4407,6 @@ fe-ko
 fe-ri
 femme
 fenol
-fi-at
 fi-il
 fi-lo
 fi-si
@@ -4481,10 +4448,8 @@ ga-co
 ga-da
 ga-do
 ga-ek
-ga-et
 ga-ga
 ga-gu
-ga-ib
 ga-il
 ga-in
 ga-it
@@ -4500,8 +4465,6 @@ ga-ri
 ga-ru
 ga-uk
 ga-ul
-ga-un
-ga-ut
 ga-ya
 gabar
 gabus
@@ -4592,7 +4555,6 @@ getik
 getil
 gi-al
 gi-am
-gi-at
 gi-gi
 gi-la
 gi-li
@@ -4667,9 +4629,7 @@ gurem
 gurih
 gurun
 gusti
-ha-id
 ha-ik
-ha-il
 ha-ji
 ha-la
 ha-lo
@@ -4680,8 +4640,6 @@ ha-ri
 ha-ru
 ha-ti
 ha-ud
-ha-ul
-ha-ur
 ha-us
 ha-wa
 ha-yo
@@ -4716,7 +4674,6 @@ henti
 hepar
 hertz
 hewan
-hi-as
 hi-du
 hi-fa
 hi-na
@@ -4751,7 +4708,6 @@ humus
 huruf
 hutan
 hyang
-isap
 ib-ni
 ib-nu
 ib-ra
@@ -4815,7 +4771,6 @@ ja-go
 ja-ha
 ja-he
 ja-il
-ja-is
 ja-iz
 ja-ja
 ja-ka
@@ -4831,7 +4786,6 @@ ja-ro
 ja-ru
 ja-sa
 ja-ti
-ja-uh
 ja-wi
 ja-ya
 jabal
@@ -4909,8 +4863,6 @@ joran
 jotos
 jreng
 jring
-ju-ak
-ju-al
 ju-an
 ju-ar
 ju-di
@@ -4951,10 +4903,7 @@ ka-di
 ka-do
 ka-fe
 ka-fi
-ka-il
-ka-in
 ka-is
-ka-it
 ka-ji
 ka-ki
 ka-ku
@@ -4982,9 +4931,6 @@ ka-so
 ka-ta
 ka-te
 ka-ti
-ka-ul
-ka-um
-ka-us
 ka-ut
 ka-wi
 ka-ya
@@ -5149,7 +5095,6 @@ keter
 ketua
 ketuk
 ketun
-ki-ah
 ki-ai
 ki-ak
 ki-al
@@ -5157,7 +5102,6 @@ ki-am
 ki-an
 ki-ap
 ki-ar
-ki-as
 ki-at
 ki-ci
 ki-cu
@@ -5268,11 +5212,7 @@ kriya
 krong
 ku-ah
 ku-ai
-ku-ak
 ku-ap
-ku-ar
-ku-as
-ku-at
 ku-au
 ku-bu
 ku-da
@@ -5284,7 +5224,6 @@ ku-il
 ku-in
 ku-ir
 ku-is
-ku-it
 ku-ja
 ku-ku
 ku-li
@@ -5358,10 +5297,7 @@ la-gi
 la-go
 la-gu
 la-if
-la-ik
-la-in
 la-ip
-la-is
 la-ja
 la-ju
 la-ka
@@ -5372,7 +5308,6 @@ la-li
 la-lu
 la-ma
 la-na
-la-os
 la-po
 la-ra
 la-ri
@@ -5386,7 +5321,6 @@ la-uh
 la-uk
 la-un
 la-ur
-la-ut
 la-va
 la-wa
 la-we
@@ -5499,9 +5433,7 @@ letih
 lewat
 lezat
 li-an
-li-ar
 li-as
-li-at
 li-au
 li-ci
 li-di
@@ -5565,11 +5497,7 @@ lolos
 loron
 lotre
 loyar
-lu-ah
-lu-ak
 lu-ap
-lu-ar
-lu-as
 lu-at
 lu-cu
 lu-es
@@ -5604,7 +5532,6 @@ lusin
 lusuh
 lutut
 ma-ab
-ma-af
 ma-ce
 ma-da
 ma-di
@@ -5636,7 +5563,6 @@ ma-ta
 ma-te
 ma-ti
 ma-tu
-ma-ut
 ma-uz
 ma-ya
 ma-zi
@@ -5652,7 +5578,6 @@ madya
 mafia
 magis
 mahal
-ma-in
 majal
 majir
 makam
@@ -5786,7 +5711,6 @@ mu-ai
 mu-ak
 mu-al
 mu-as
-mu-at
 mu-da
 mu-ih
 mu-ka
@@ -5828,9 +5752,7 @@ na-fi
 na-ga
 na-hi
 na-hu
-na-ib
 na-if
-na-ik
 na-im
 na-ka
 na-la
@@ -5863,7 +5785,6 @@ navis
 nazar
 ne-ka
 ne-ko
-ne-on
 ne-to
 nenas
 nenek
@@ -5880,7 +5801,6 @@ ni-ra
 ni-ru
 ni-ur
 niaga
-ni-at
 nifas
 nikah
 nilai
@@ -5976,11 +5896,9 @@ pa-ru
 pa-si
 pa-su
 pa-ti
-pa-uh
 pa-uk
 pa-ul
 pa-un
-pa-us
 pa-ut
 pa-ya
 pa-yu
@@ -6126,7 +6044,6 @@ pi-on
 pi-pa
 pi-pi
 pi-ta
-pi-uh
 pi-ut
 pi-za
 piama
@@ -6205,7 +6122,6 @@ prot-
 psalm
 pu-ah
 pu-ak
-pu-al
 pu-an
 pu-as
 pu-di
@@ -6281,8 +6197,6 @@ ra-gi
 ra-gu
 ra-hu
 ra-ib
-ra-ih
-ra-is
 ra-ja
 ra-ka
 ra-ma
@@ -6301,7 +6215,6 @@ ra-tu
 ra-um
 ra-un
 ra-up
-ra-ut
 ra-wa
 ra-wi
 ra-ya
@@ -6353,7 +6266,6 @@ rawat
 rawon
 rayap
 razia
-re-al
 re-ba
 re-bo
 re-bu
@@ -6454,10 +6366,8 @@ rompi
 ronta
 rotan
 rotor
-ru-ah
 ru-ai
 ru-ak
-ru-am
 ru-ap
 ru-as
 ru-at
@@ -6482,7 +6392,6 @@ rumus
 rurut
 rusak
 rutin
-sa-at
 sa-ba
 sa-bi
 sa-bo
@@ -6523,11 +6432,8 @@ sa-sa
 sa-si
 sa-te
 sa-tu
-sa-uh
 sa-uk
 sa-um
-sa-ur
-sa-us
 sa-ut
 sa-wa
 sa-wi
@@ -6688,13 +6594,8 @@ setum
 setup
 sewar
 sfing
-si-ah
 si-ak
-si-al
-si-am
 si-an
-si-ap
-si-ar
 si-at
 si-au
 si-ce
@@ -6721,7 +6622,6 @@ si-tu
 si-uh
 si-uk
 si-ul
-si-ur
 si-ut
 siaga
 siang
@@ -6770,7 +6670,6 @@ slang
 sling
 sluri
 so-ak
-so-al
 so-ba
 so-da
 so-fa
@@ -6830,8 +6729,6 @@ su-ai
 su-ak
 su-al
 su-am
-su-ap
-su-ar
 su-at
 su-ci
 su-da
@@ -6908,7 +6805,6 @@ syair
 syakh
 syekh
 syura
-ta-at
 ta-be
 ta-bi
 ta-bo
@@ -6937,10 +6833,8 @@ ta-sa
 ta-ta
 ta-to
 ta-ul
-ta-un
 ta-up
 ta-ur
-ta-ut
 ta-wa
 tabah
 tabel
@@ -7053,8 +6947,6 @@ tetek
 tetes
 tetra
 ti-am
-ti-an
-ti-ap
 ti-ba
 ti-fa
 ti-ga
@@ -7070,7 +6962,6 @@ ti-ri
 ti-ru
 ti-su
 ti-ti
-ti-up
 tiada
 tiang
 tidak
@@ -7132,13 +7023,10 @@ troya
 trung
 tu-ah
 tu-ai
-tu-ak
 tu-al
 tu-am
-tu-an
 tu-ap
 tu-ar
-tu-as
 tu-at
 tu-ba
 tu-be
@@ -10017,7 +9905,6 @@ humbut
 hunian
 hunjam
 huyung
-ingat
 ia-lah
 ib-lis
 ib-rit
@@ -11148,11 +11035,7 @@ ko-yak
 ko-yam
 ko-yan
 ko-yok
-am-boi
-ba-pak
 la-wan
-ap-ril
-ban-tu
 man-di
 in-fra
 ul-tra
@@ -11474,7 +11357,6 @@ la-ung
 la-wah
 la-wai
 la-wak
-la-wan
 la-war
 la-was
 la-wat
@@ -12093,7 +11975,6 @@ mam-pu
 mamang
 man-ci
 man-da
-man-di
 man-du
 man-ja
 man-ta
@@ -15557,7 +15438,6 @@ zu-hur
 zuriah
 -rektor
 -tik-an
-ane-ka
 ab-sorb
 ab-surd
 aba-aba
@@ -18398,13 +18278,8 @@ ko-teng
 ko-tong
 pan-dai
 sur-vei
-de-ngan
 swas-ta
-am-bruk
-ba-nyak
 se-buah
-apa-kah
-apa-tah
 kod-rat
 kog-nat
 koh-lea
@@ -19651,7 +19526,6 @@ pan-cir
 pan-cit
 pan-cur
 pan-cut
-pan-dai
 pan-dak
 pan-dam
 pan-dan
@@ -20632,7 +20506,6 @@ se-reng
 se-ring
 se-rong
 se-tang
-se-tia
 se-tung
 seb-rot
 sebaran
@@ -21086,7 +20959,6 @@ sup-ra-
 sur-ban
 sur-jan
 sur-vai
-sur-vei
 suratan
 surgawi
 sus-ter
@@ -21095,7 +20967,6 @@ susulan
 susunan
 suwandi
 swar-ga
-swas-ta
 swe-ter
 swi-poa
 swi-ter
@@ -21377,7 +21248,6 @@ te-rang
 te-ring
 te-rong
 te-rung
-te-tua
 tebusan
 teg-men
 tegalan
@@ -23710,9 +23580,7 @@ ko-ro-na
 ko-ro-si
 ko-te-ka
 ko-ti-pa
-ke-nyang
 som-bong
-ben-trok
 kong-res
 makh-luk
 masy-hur
@@ -23722,7 +23590,6 @@ per-buat
 ter-bawa
 makan-an
 swa-foto
-ge-ri-gi
 bio-data
 kognitif
 kok-tail
@@ -23752,7 +23619,6 @@ kon-trol
 kon-veks
 kong-kol
 kong-kow
-kong-res
 konveksi
 kop-ling
 kor-teks
@@ -24084,13 +23950,11 @@ mah-syar
 mah-yong
 mahbubah
 mahligai
-ma-in-an
 majakane
 mak-yong
 mak-yung
 makaroni
 makh-dum
-makh-luk
 makh-raj
 maksimum
 malaikat
@@ -24136,7 +24000,6 @@ marshall
 martabak
 masy-gul
 masy-haf
-masy-hur
 masy-rik
 masyakah
 mat-riks
@@ -25713,7 +25576,6 @@ so-na-ta
 so-ne-ta
 so-ngong
 so-si-al
-som-bong
 som-peng
 som-plak
 som-plok
@@ -29069,7 +28931,6 @@ me-ma-kai
 me-nu-tup
 me-nya-pu
 pe-mi-kir
-ge-mu-ruh
 bio-grafi
 foto-kopi
 kilo-gram
@@ -29668,7 +29529,6 @@ me-ma-gut
 me-ma-hat
 me-ma-iri
 me-ma-juh
-me-ma-kai
 me-ma-kal
 me-ma-kan
 me-ma-kuk
@@ -30040,14 +29900,12 @@ me-nu-sir
 me-nu-suk
 me-nu-tuh
 me-nu-tuk
-me-nu-tup
 me-num-pu
 me-nun-da
 me-nya-ba
 me-nya-gu
 me-nya-la
 me-nya-pa
-me-nya-pu
 me-nya-ra
 me-nya-ru
 me-nya-tu
@@ -31026,7 +30884,6 @@ pe-me-tik
 pe-mi-jak
 pe-mi-jat
 pe-mi-kat
-pe-mi-kir
 pe-mi-kul
 pe-mi-lih
 pe-mi-lik
@@ -31785,7 +31642,6 @@ sar-ko-de
 sar-ko-ma
 sarasehan
 sas-mi-ta
-sau-da-ra
 sau-ja-na
 se-a-ngin
 se-ab-rek
@@ -32248,7 +32104,6 @@ serendeng
 ses-ti-na
 set-ri-ka
 setingkat
-seu-da-ti
 sfe-ro-id
 sfing-ter
 si-a-lang
@@ -38622,7 +38477,6 @@ me-ngu-tip
 me-ngu-tui
 me-ngu-tuk
 me-ngu-yup
-me-ngun-ci
 me-ni-a-da
 me-ni-a-ga
 me-ni-duri
@@ -41339,7 +41193,6 @@ mu-kha-laf
 mu-kha-lif
 mu-kha-lis
 mu-sya-rik
-mu-ta-khir
 mu-ti-a-ra
 mu-wa-rikh
 muf-si-din
@@ -41954,7 +41807,6 @@ pe-nin-das
 pe-nin-dih
 pe-nin-jau
 pe-no-dong
-pe-no-long
 pe-no-pang
 pe-non-ton
 pe-nu-dung
@@ -41991,7 +41843,6 @@ pe-nya-nyi
 pe-nya-wah
 pe-nye-bab
 pe-nye-bar
-pe-nye-but
 pe-nye-dap
 pe-nye-dih
 pe-nye-dot
@@ -44894,7 +44745,6 @@ te-le-skop
 te-lem-pap
 te-li-kung
 te-lim-puh
-te-lun-juk
 te-ma-lang
 te-ma-ngau
 te-man-ten
@@ -46438,13 +46288,11 @@ ber-hor-mat
 ber-hu-bung
 ber-i-ra-ma
 ber-i-ur-an
-ber-iba-iba
 ber-im-bang
 ber-in-sang
 ber-ing-sut
 ber-jam-bar
 ber-jam-bul
-ber-jam-jam
 ber-jam-rah
 ber-jan-tan
 ber-jang-ka
@@ -46547,7 +46395,6 @@ ber-pa-dang
 ber-pa-ling
 ber-pa-sang
 ber-pa-yung
-ber-pal-pal
 ber-pan-tun
 ber-pang-ku
 ber-pang-sa
@@ -46582,7 +46429,6 @@ ber-sa-lung
 ber-sa-ngai
 ber-sa-rang
 ber-sa-rung
-ber-saf-saf
 ber-sam-bat
 ber-sam-but
 ber-sam-pan
@@ -46686,7 +46532,6 @@ ber-tu-dung
 ber-tu-kang
 ber-tu-lang
 ber-tu-ruti
-ber-tua-tua
 ber-tum-buh
 ber-tum-buk
 ber-tun-tun
@@ -47642,11 +47487,9 @@ ko-pu-la-si
 ko-re-la-si
 ko-ro-lo-gi
 ko-sa-ka-ta
-in-stru-men
 me-rasa-kan
 per-buat-an
 pe-nga-rang
-ge-lem-bung
 si-nam-bung
 meng-akhiri
 pasca-panen
@@ -49436,7 +49279,6 @@ pe-nen-tang
 pe-neng-gek
 pe-neng-kar
 pe-ner-bang
-pe-nga-rang
 pe-ngan-dar
 pe-ngan-tin
 pe-nge-dang
@@ -50142,7 +49984,6 @@ si-mu-la-si
 si-mul-fiks
 si-na-go-ge
 si-na-na-ga
-si-nam-bung
 si-nan-dung
 si-ne-pleks
 si-no-lo-gi
@@ -58601,7 +58442,6 @@ mu-rat-ma-rit
 mu-se-o-lo-gi
 mu-sya-ra-kah
 mu-sya-ra-kat
-mu-sya-wa-rah
 mu-sya-wa-rat
 mudah-mudahan
 muk-ta-mi-rin
@@ -65713,9 +65553,6 @@ ber-se-li-wer-an
 ber-se-rang-gung
 ber-se-tung-gang
 ber-se-tung-ging
-ber-sembahyang
-ber-senggulung
-ber-sengkeling
 ber-singgung-an
 ber-spekulasi
 ber-sunting-kan
@@ -65725,7 +65562,6 @@ ber-tem-pi-ar-an
 ber-tiwi-krama
 ber-toleransi
 ber-tualang-an
-ber-ulang-alik
 ber-wawan-cara
 ber-wawan-muka
 ber-folder-folder
@@ -70124,7 +69960,6 @@ ter-gerenyeng-gerenyeng
 ber-belakang-belakang-an
 ber-sembunyi-sembunyi-an
 ekstra-teritoriali-tas
-mem-per-tanggung-jawab-kan
 men-dis-kualifikasi-kan
 meng-gelepar-gelepar-kan
 meng-gelinding-gelinding
